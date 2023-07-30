@@ -30,4 +30,3 @@ Reference <a href="https://learn.microsoft.com/en-us/training/modules/get-starte
 -   Create an application in Power Apps
 -   Show results of model’s extracted information
 -   Retrieve the list of all text lines and display it to the user
--
